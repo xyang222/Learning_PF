@@ -1,0 +1,60 @@
+,s_name1,s_name2,Relation
+1,Anne Boleyn,John Skut,T
+2,Anne Boleyn,Nicholas Bourbon,T
+3,Nicholas Bourbon,George Carew,F
+4,Nicholas Bourbon,Amy Dudley,F
+5,Nicholas Bourbon,Thomas Fiennes,F
+6,Nicholas Bourbon,Lady Jane Grey,F
+7,Nicholas Bourbon,Henry Norris,T
+8,Nicholas Bourbon,Matthew Parker,F
+9,Nicholas Bourbon,Jane Seymour,F
+10,Nicholas Bourbon,Margaret Shelton,T
+11,Nicholas Bourbon,Thomas Thirlby,F
+12,Nicholas Bourbon,King Edward,F
+13,Gilbert Bourne,John Philpott,F
+14,Henry Clifford,Amy Dudley,F
+15,Jane Dudley,Katherine Seymour,F
+16,William Fitzwilliam,Sir Thomas Gamage,F
+17,Thomas Darcy,Sir John Gates,T
+18,Henry Grey,Katherine Seymour,T
+19,James Hamilton,George Seton,T
+20,Henry Howard,Hadrianus Junius,T
+21,Thomas Howard,Hadrianus Junius,T
+22,Sir Thomas Gamage,William Howard,T
+23,Anthony Browne,John Man,F
+24,Amy Dudley,John Man,F
+25,John Man,Henry Stewart,F
+26,John Man,Nicholas Throckmorton,F
+27,Thomas Davies,Rowland Meyrick,T
+28,William Dacre,William Musgrave,T
+29,William Musgrave,John Sinclair,F
+30,William Musgrave,Thomas Wharton,T
+31,Antoine de Noailles,William Pickering,T
+32,Antoine de Noailles,Edward Warner,T
+33,Roger Ascham,Margaret Roper,T
+34,James Bassett,Margaret Roper,T
+35,Anne Boleyn,Margaret Roper,T
+36,John Cheke,Margaret Roper,F
+37,Henry Fitzroy,Margaret Roper,F
+38,Nicholas Harpsfield,Margaret Roper,T
+39,John Leland,Margaret Roper,F
+40,William Paget,Margaret Roper,F
+41,William Rastell,Margaret Roper,T
+42,Anne Boleyn,Jane Seymour,T
+43,Sir Thomas Gamage,Jane Seymour,F
+44,Roger Ascham,Katherine Seymour,F
+45,Henry Clifford,Katherine Seymour,T
+46,Amy Dudley,Katherine Seymour,F
+47,John Hales,Katherine Seymour,T
+48,Anne Herbert,Katherine Seymour,T
+49,Thomas Howard,Katherine Seymour,F
+50,Nicholas Lesse,Katherine Seymour,F
+51,Richard Morison,Katherine Seymour,F
+52,William Samuel,Katherine Seymour,F
+53,Katherine Seymour,Nicholas Throckmorton,F
+54,Katherine Seymour,Queen Mary,T
+55,Katherine Seymour,John Williams,F
+56,John Elder,Henry Stewart,T
+57,Patrick Ruthven,Henry Stewart,T
+58,Patrick Ruthven,Janet Stewart,T
+59,Robert Sempill,Matthew Stewart,F
